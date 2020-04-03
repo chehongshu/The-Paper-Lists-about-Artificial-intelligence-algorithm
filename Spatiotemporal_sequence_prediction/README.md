@@ -16,14 +16,18 @@
 
 
 
-### Recurrent Neural Network (循环神经网络)
+## Recurrent Neural Network (循环神经网络)
 
 
 
-#### Convolutional LSTM Network: A Machine Learning  Approach for Precipitation Nowcasting (**NIPS2015**) [[paper](https://arxiv.org/pdf/1506.04214.pdf)] *
+#### **Convolutional LSTM Network: A Machine Learning  Approach for Precipitation Nowcasting** (**NIPS2015**) [paper](https://arxiv.org/pdf/1506.04214.pdf)] *
 
 - In this paper, we formulate precipitation nowcasting as a spatiotemporal sequence forecasting problem in which both the input and the prediction target are spatiotemporal sequences. By extending the fully connected
     LSTM (FC-LSTM) to have convolutional structures in both the input-to-state and state-to-state transitions, we propose the convolutional LSTM (ConvLSTM) and use it to build an end-to-end trainable model for the precipitation nowcasting problem. 
+    - propose convLSTM model
+    - propose encoding-forcasting framework
+    - give a baseline for precipitation nowcasting problem
+    - emphasize out-of-domain problem
 - 在这个论文中，我们把降水预测作为时空序列问题来处理。通过将input-to-state and state-to-state转换从全连接转换成卷积，我们提出了ConvLSTM并且利用它去建立端到端模型应用于降水预测问题。
     - 提出了convLSTM
     - 提出了encoding-forcasting结构

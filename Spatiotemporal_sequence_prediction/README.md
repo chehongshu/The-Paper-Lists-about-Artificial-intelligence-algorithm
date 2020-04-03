@@ -20,7 +20,7 @@
 
 
 
-#### ** Convolutional LSTM Network: A Machine Learning  Approach for Precipitation Nowcasting** (**NIPS2015**) [[paper](https://arxiv.org/pdf/1506.04214.pdf)] *
+#### Convolutional LSTM Network: A Machine Learning  Approach for Precipitation Nowcasting (**NIPS2015**) [[paper](https://arxiv.org/pdf/1506.04214.pdf)] *
 
 - In this paper, we formulate precipitation nowcasting as a spatiotemporal sequence forecasting problem in which both the input and the prediction target are spatiotemporal sequences. By extending the fully connected
     LSTM (FC-LSTM) to have convolutional structures in both the input-to-state and state-to-state transitions, we propose the convolutional LSTM (ConvLSTM) and use it to build an end-to-end trainable model for the precipitation nowcasting problem. 

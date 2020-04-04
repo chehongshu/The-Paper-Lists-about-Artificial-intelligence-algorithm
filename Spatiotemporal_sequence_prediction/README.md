@@ -36,4 +36,4 @@
 
 | paper-notes（论文解读笔记）                  |                            公众号                            |                             CSDN                             |                            知乎                            |
 | :------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
-| 时空序列预测模型之Convolutional LSTM Network | [公众号](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247484743&idx=2&sn=10387417121b70ec27e311f9c5b0e493&scene=19&token=1999900258&lang=zh_CN#wechat_redirect "悬停显示") | [CSDN](<https://blog.csdn.net/qq_33431368/article/details/100053949>"悬停显示") | [知乎](<https://zhuanlan.zhihu.com/p/92868370> "悬停显示") |
+| 时空序列预测模型之Convolutional LSTM Network | [公众号](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247484743&idx=2&sn=10387417121b70ec27e311f9c5b0e493&scene=19&token=1999900258&lang=zh_CN#wechat_redirect "悬停显示") | [CSDN](https://blog.csdn.net/qq_33431368/article/details/100053949 "悬停显示") | [知乎](<https://zhuanlan.zhihu.com/p/92868370> "悬停显示") |
